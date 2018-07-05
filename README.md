@@ -25,18 +25,13 @@ Alter project to go against a mysql running in a docker.
 
 ### Create commands for files
 Create a clone of the node_seed project
-
 Create a clone of the react_seed project
-
 Create React stateful component
-
 Create React stateless component
 Create React scss file
-
 Create React css file
 Create React http module
 Create React test file for a component
-
 Create api module
 Create service module
 Create db module
