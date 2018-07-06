@@ -23,14 +23,14 @@ Alter project to go against a mongo db running in a docker
 Alter project to go against a mysql running in a docker.
 (These commands will download the docker image for the development machine and start them up if not already downloaded, and adjust the whole backend accordingly)
 
-### Create commands for files
-Create a clone of the node_seed project
-Create a clone of the react_seed project
-Create React stateful component
-Create React stateless component
-Create React scss file
-Create React css file
-Create React http module
+### Create commands for files 
+Create a clone of the node_seed project 
+Create a clone of the react_seed project 
+Create React stateful component 
+Create React stateless component 
+Create React scss file 
+Create React css file 
+Create React http module 
 Create React test file for a component
 Create api module
 Create service module
