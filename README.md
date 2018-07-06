@@ -24,7 +24,7 @@ Alter project to go against a mysql running in a docker.
 (These commands will download the docker image for the development machine and start them up if not already downloaded, and adjust the whole backend accordingly)
 
 ### Create commands for files 
-Create a clone of the node_seed project 
+Create a clone of the node_seed project<br>
 Create a clone of the react_seed project 
 Create React stateful component 
 Create React stateless component 
