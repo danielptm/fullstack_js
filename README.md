@@ -1,4 +1,4 @@
-# fullstack_js
+# levels_cli
 A CLI tool that can be used to consistently and quickly build react and node components. The idea is that you create a clone of a node and react seed project into 2 different folders. In the terminal you can be 1 level above both folders and be able to create node and react components or you can be in the root of the node or react project and create components just for that project. Much like the angular CLI you can then just type "fullstack generate <ComponentName>" to create the component that you want.
   
 ### General features
